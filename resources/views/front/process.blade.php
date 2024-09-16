@@ -57,144 +57,151 @@
  <!-- process Section -->
  <section class="how-to-work pt-50">
     <div class= "auto-container">
-       <div class="row align-items-center pt-50">
-          <div class="col-md-7 mb-4">
-             <div class="work-wrapper">
-                <h3 class="process-sub-title  wow animated fadeInDown"> 0.1 TARGET</h3>
-                <h2 class="process-heading-title  wow animated fadeInLeft"> <span class="theme-color1">Targeting</span> your ideal prospects</h2>
-                <div class="mt-4">
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
-                            <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
-                            <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
-                            <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
-                            </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
-                            <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
-                            <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
-                            <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
-                            </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
-                            <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
-                            <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
-                            <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
-                            </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
+        <div class="process-next-s">
+            <div class="row align-items-center pt-50">
+                <div class="col-md-7 mb-4">
+                    <div class="work-wrapper">
+                        <h3 class="process-sub-title  wow animated fadeInDown"> 0.1 TARGET</h3>
+                        <h2 class="process-heading-title  wow animated fadeInLeft"> <span class="theme-color1">Targeting</span> your ideal prospects</h2>
+                        <div class="mt-4">
+                        <div  class="work-description mt-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                                <g clip-path="url(#clip0_166_360)">
+                                    <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
+                                    <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_166_360">
+                                    <rect width="30" height="30" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                            <p>
+                                We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                        </div>
+                        <div  class="work-description mt-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                                <g clip-path="url(#clip0_166_360)">
+                                    <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
+                                    <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_166_360">
+                                    <rect width="30" height="30" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                            <p>
+                                We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                        </div>
+                        <div  class="work-description mt-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                                <g clip-path="url(#clip0_166_360)">
+                                    <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
+                                    <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_166_360">
+                                    <rect width="30" height="30" fill="white"></rect>
+                                    </clipPath>
+                                </defs>
+                            </svg>
+                            <p>
+                                We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                        </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-md-5  mb-4">
+                    <div class="work-img video-box-2 position-relative wow animated fadeInRight">
+                        <img src="{{ asset('dist-front/images/imgb.png') }}"  alt="">
+                        <a href="https://www.youtube.com/watch?v=EWEDUrd1i5g" class="play-btn" data-fancybox="gallery"><i class="icon fa fa-play" aria-hidden="true"></i></a>
+                    </div>
                 </div>
                 
-             </div>
-          </div>
-          <div class="col-md-5  mb-4">
-             <div class="work-img video-box-2 position-relative wow animated fadeInRight">
-                <img src="{{ asset('dist-front/images/imgb.png') }}"  alt="">
-                <a href="https://www.youtube.com/watch?v=EWEDUrd1i5g" class="play-btn" data-fancybox="gallery"><i class="icon fa fa-play" aria-hidden="true"></i></a>
-             </div>
-          </div>
-          <div class="col-md-12 text-center">
+            </div>
+            <div class="col-md-12 text-center">
              <a href="#process1" class="smoth-scroll">
                 <i class="fas fa-chevron-down"></i>
                 <span class="tooltiptext">Next Level </span>
             </a>
           </div>
-       </div>
-       <div class="row align-items-center flex-column-reverse flex-md-row pt-50" id="process1">
-         
-          <div class="col-md-5  mb-4 ">
-             <div class="work-img video-box-2 position-relative wow animated fadeInLeft">
+        </div>
+        <div class="process-next-s">
+            <div class="row align-items-center flex-column-reverse flex-md-row pt-50" id="process1">
+            
+            <div class="col-md-5  mb-4 ">
+                <div class="work-img video-box-2 position-relative wow animated fadeInLeft">
                 <img src="{{ asset('dist-front/images/imgc.png') }}" alt="">
                 <a href="https://www.youtube.com/watch?v=EWEDUrd1i5g" class="play-btn" data-fancybox="gallery"><i class="icon fa fa-play" aria-hidden="true"></i></a>
-             </div>
-          </div>
-          <div class="col-md-7 mb-4 ">
-             <div class="work-wrapper">
+                </div>
+            </div>
+            <div class="col-md-7 mb-4 ">
+                <div class="work-wrapper">
                 <h3 class="process-sub-title  wow animated fadeInDown"> 0.2 REACH OUT</h3>
                 <h2 class="process-heading-title  wow animated fadeInLeft"> <span class="theme-color1">Messaging</span>  isn't your top concern</h2>
                 <div class="mt-4">
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
+                    <div  class="work-description mt-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                            <g clip-path="url(#clip0_166_360)">
                             <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
                             <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
+                            </g>
+                            <defs>
                             <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
+                                <rect width="30" height="30" fill="white"></rect>
                             </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
+                            </defs>
+                        </svg>
+                        <p>
+                            We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                    </div>
+                    <div  class="work-description mt-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                            <g clip-path="url(#clip0_166_360)">
                             <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
                             <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
+                            </g>
+                            <defs>
                             <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
+                                <rect width="30" height="30" fill="white"></rect>
                             </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
-                   <div  class="work-description mt-2">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
-                         <g clip-path="url(#clip0_166_360)">
+                            </defs>
+                        </svg>
+                        <p>
+                            We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                    </div>
+                    <div  class="work-description mt-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+                            <g clip-path="url(#clip0_166_360)">
                             <circle cx="15" cy="15" r="15" fill="#F1F8FE"></circle>
                             <path d="M21.1766 11.4706L13.2906 19.4118L9.70605 15.8021" stroke="#78cf9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                         </g>
-                         <defs>
+                            </g>
+                            <defs>
                             <clipPath id="clip0_166_360">
-                               <rect width="30" height="30" fill="white"></rect>
+                                <rect width="30" height="30" fill="white"></rect>
                             </clipPath>
-                         </defs>
-                      </svg>
-                      <p>
-                         We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
-                   </div>
+                            </defs>
+                        </svg>
+                        <p>
+                            We’ll work with you to narrow down your new-prospect search and optimize your profile, showing you the best strategy to hook people in and foster valuable bonds.					</p>
+                    </div>
                 </div>
                 
-             </div>
-          </div>
-          <div class="col-md-12 text-center">
-             <a href="#process2" class="smoth-scroll">
+                </div>
+            </div>
+            
+            </div>
+            <div class="col-md-12 text-center">
+                <a href="#process2" class="smoth-scroll">
                 <i class="fas fa-chevron-down"></i>
                 <span class="tooltiptext">Next Level </span>
-            </a>
-          </div>
-       </div>
-       <div class="row align-items-center pt-50" id="process2">
+               </a>
+            </div>
+        </div>
+        <div class="process-next-s">
+        <div class="row align-items-center pt-50" id="process2">
           <div class="col-md-7 mb-4">
              <div class="work-wrapper">
                 <h3 class="process-sub-title  wow animated fadeInDown">0.3 NURTURE</h3>
@@ -255,6 +262,7 @@
              </div>
           </div>
        </div>
+        </div>
     </div>
  </section>
  <!-- how-to-work Section -->
