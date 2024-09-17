@@ -4230,6 +4230,7 @@ Section Title
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
+
 }
 
 .banner-carousel .owl-nav .owl-next,
