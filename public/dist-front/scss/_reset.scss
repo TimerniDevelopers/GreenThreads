@@ -1,4 +1,4 @@
-/*** 
+/***
 
 ====================================================================
 Reset
@@ -14,7 +14,7 @@ Reset
     font-size: 100%;
 }
 
-/*** 
+/***
 
 ====================================================================
 Global Settings
@@ -23,7 +23,7 @@ Global Settings
 ***/
 
 textarea{
-    overflow:hidden;    
+    overflow:hidden;
     resize: none;
 }
 
@@ -144,7 +144,7 @@ li {
     @include title-font;
     letter-spacing: 2px;
     text-transform: uppercase;
-    content: 'Loading';
+    content: '';
     transition: none;
 }
 
@@ -419,11 +419,11 @@ Scroll To Top style
             text-align: center;
             font-size:14px;
             color: #ffffff;
-            transition:all 300ms ease;              
+            transition:all 300ms ease;
             &:hover{
                 color: var(--theme-color1);
             }
-        }   
+        }
     }
 }
 
@@ -643,7 +643,7 @@ Scroll To Top style
 }
 
 /*======================
-    Media Play Button 
+    Media Play Button
 ======================*/
 
 .play-now {
@@ -667,7 +667,7 @@ Scroll To Top style
 	display: block;
 	border-radius: 50%;
 	box-shadow: 0  0px 10px 0 rgba(255, 255, 255, .3);
-	transform-origin:center; 
+	transform-origin:center;
 }
 
 .play-now .ripple,
@@ -710,7 +710,7 @@ Scroll To Top style
 @keyframes ripple {
 	70% {-webkit-box-shadow: 0 0 0 50px rgba(233, 35, 47, 0);box-shadow: 0 0 0 50px rgba(233, 35, 47, 0);}
 	100% {-webkit-box-shadow: 0 0 0 0 rgba(233, 35, 47, 0);box-shadow: 0 0 0 0 rgba(233, 35, 47, 0);}
-} 
+}
 
 .play-now-two {
     height: 150px;

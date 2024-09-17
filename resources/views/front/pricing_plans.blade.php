@@ -19,7 +19,7 @@
     <div class="container pb-70">
         <div class="row">
             @foreach($pricing_plans as $item)
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+            <div class="col-xl-4 col-lg-4">
                 <div class="pricing-block">
                     <div class="inner-box">
                         <figure class="image"><img src="{{ asset('uploads/'.$item->photo) }}" alt=""></figure>

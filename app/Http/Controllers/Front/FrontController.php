@@ -479,10 +479,4 @@ class FrontController extends Controller
         }
         return redirect()->back();
     }
-
-    // process page
-    public function process()
-    {
-        return view('front.process');
-    }
 }

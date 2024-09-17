@@ -68,7 +68,6 @@ Route::get('/privacy-policy', [FrontController::class, 'privacy'])->name('privac
 Route::post('/subscriber-submit', [FrontController::class, 'subscriber_submit'])->name('subscriber_submit');
 Route::get('/subscriber-verify/{email}/{token}', [FrontController::class, 'subscriber_verify'])->name('subscriber_verify');
 Route::post('/language-switch', [FrontController::class, 'language_switch'])->name('language_switch');
-Route::get('/process', [FrontController::class, 'process'])->name('process');
 
 
 /* Admin */
@@ -76,7 +75,7 @@ Route::middleware('admin')->prefix('admin')->group(function () {
     Route::get('/dashboard',[AdminController::class,'dashboard'])->name('admin_dashboard');
     Route::get('/profile',[AdminController::class,'profile'])->name('admin_profile');
     Route::post('/profile',[AdminController::class,'profile_update'])->name('admin_profile_update');
-    
+
     Route::get('/setting/general',[AdminSettingController::class,'general'])->name('admin_setting_general');
     Route::post('/setting/general/update',[AdminSettingController::class,'general_update'])->name('admin_setting_general_update');
 
@@ -146,7 +145,6 @@ Route::middleware('admin')->prefix('admin')->group(function () {
     Route::get('/language/translate/{id}',[AdminLanguageController::class,'translate'])->name('admin_language_translate');
     Route::post('/language/translate/update/{id}',[AdminLanguageController::class,'translate_update'])->name('admin_language_translate_update');
     Route::get('/language/translate/auto/{id}',[AdminLanguageController::class,'auto_translate'])->name('admin_language_auto_translate');
-
 
 
     Route::get('/post-category/index',[AdminPostCategoryController::class,'index'])->name('admin_post_category_index');
@@ -286,7 +284,7 @@ Route::middleware('admin')->prefix('admin')->group(function () {
     Route::get('/other-page/custom/destroy/{id}',[AdminOtherPageItemController::class,'custom_page_destroy'])->name('admin_other_page_item_custom_page_destroy');
 
 
-    
+
 
     Route::get('/menu/index',[AdminMenuController::class,'index'])->name('admin_menu_index');
     Route::post('/menu/update',[AdminMenuController::class,'update'])->name('admin_menu_update');

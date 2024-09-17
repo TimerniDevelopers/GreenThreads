@@ -66,7 +66,6 @@ class AdminSliderController extends Controller
             ]);
             if($slider->photo) {
                 $filePath = public_path('uploads/'.$slider->photo);
-
                 if(File::exists($filePath)) {
                     unlink($filePath);
                 }

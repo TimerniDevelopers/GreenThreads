@@ -19,7 +19,7 @@
     <div class="auto-container">
         <div class="row">
             @foreach($services as $service)
-            <div class="service-block  col-xl-3 col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+            <div class="service-block col-lg-3 col-md-6 coll-md-12 wow fadeInUp">
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image"><img src="{{ asset('uploads/'.$service->photo) }}" alt="{{ $service->name }}"></figure>

@@ -19,7 +19,7 @@
 <section class="services-details">
     <div class="container">
         <div class="row">
-            <div class="col-xl-4 col-lg-4 ">
+            <div class="col-xl-4 col-lg-4">
                 <div class="service-sidebar">
                     <div class="sidebar-widget service-sidebar-single">
                         <div class="sidebar-service-list">

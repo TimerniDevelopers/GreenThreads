@@ -254,12 +254,12 @@
                                         </ul>
                                     </div>
                                 </li>
+
                                 @if ($menu_arr['Services'] == 'Show')
                                     <li class="{{ Request::is('services') ? 'current' : '' }}">
                                         <a href="{{ route('services') }}">{{ __('Services') }}</a>
                                     </li>
                                 @endif
-                                <li><a href="{{ route('process') }}">Process</a></li>
 
                                 @if ($menu_arr['Portfolios'] == 'Show')
                                     <li class="{{ Request::is('portfolios') ? 'current' : '' }}">
@@ -278,9 +278,6 @@
                                         <a href="{{ route('contact') }}">{{ __('Contact') }}</a>
                                     </li>
                                 @endif
-
-                                
-
                             </ul>
                         </nav>
                     </div>
@@ -472,6 +469,7 @@
 
     @if ($global_setting->tawk_live_chat_status == 'Show')
         <!--Start of Tawk.to Script-->
+        <!--Start of Tawk.to Script-->
         <script type="text/javascript">
             var Tawk_API = Tawk_API || {},
                 Tawk_LoadStart = new Date();
@@ -479,12 +477,13 @@
                 var s1 = document.createElement("script"),
                     s0 = document.getElementsByTagName("script")[0];
                 s1.async = true;
-                s1.src = 'https://embed.tawk.to/{{ $global_setting->tawk_live_chat_property_id }}/default';
+                s1.src = 'https://embed.tawk.to/66e15aa0ea492f34bc1150a8/1i7g4k1bb';
                 s1.charset = 'UTF-8';
                 s1.setAttribute('crossorigin', '*');
                 s0.parentNode.insertBefore(s1, s0);
             })();
         </script>
+        <!--End of Tawk.to Script-->
         <!--End of Tawk.to Script-->
     @endif
 

@@ -248,6 +248,6 @@
     </div>
 
     <button type="submit" class="btn btn-success mb-50 btn-common">{{ __('Update') }}</button>
-    
+
 </form>
 @endsection
