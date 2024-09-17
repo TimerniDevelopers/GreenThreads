@@ -4233,7 +4233,6 @@ Section Title
     -ms-flex-direction: column;
     flex-direction: column;
 }
-
 .banner-carousel .owl-nav .owl-next,
 .banner-carousel .owl-nav .owl-prev {
     margin-top: 10px;
